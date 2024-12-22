@@ -39,22 +39,22 @@
   z-index: 1; }
 
 .timeline-card-primary {
-  border-left-color: #4A89DC; }
+  border-left-color: #000bff ; }
 
 .timeline-card-primary:before {
-  border-color: #4A89DC; }
+  border-color: #000bff ; }
 
 .timeline-card-primary:after {
-  background-color: #4A89DC; }
+  background-color: #000bff ; }
 
 .timeline-card-success {
-  border-left-color: #37BC9B; }
+  border-left-color: #ff6c00; }
 
 .timeline-card-success:before {
-  border-color: #37BC9B; }
+  border-color: #ff6c00; }
 
 .timeline-card-success:after {
-  background-color: #37BC9B; }
+  background-color: #ff6c00; }
 
 html {
   scroll-behavior: smooth; }
@@ -81,7 +81,7 @@ html {
   border-radius: 10px; }
 
 .cover-bg {
-  background-color: #e77018;
+  background-color: #ff6c00;
   border-radius: 10px 10px 0 0; }
 
 .avatar {
